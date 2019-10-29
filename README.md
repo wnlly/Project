@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # webpack
 
 ## Project setup
@@ -27,3 +28,7 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Project
+A project for example my result。
+>>>>>>> b0d700835cefd62f7249e5dbfb84ac16fda9e84a
